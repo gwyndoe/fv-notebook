@@ -3,7 +3,7 @@
 
 A learning notebook for formally verified cryptography: specs in Lean, protocol models in ProVerif, and small Rust code checked against the specs. Public learning material only. Nothing proprietary goes in this repo.
 
-**Status:** Stage 1 of 6 &nbsp;|&nbsp; **Last updated:** YYYY-MM-DD
+**Status:** Stage 1 of 6 &nbsp;|&nbsp; **Last updated:** 2026/09/9
 
 ## Stages
 
